@@ -129,3 +129,11 @@ void reverse_audio_file(char* filepath, char* fileOutputPath){
 }
 
 
+void slingshot(int x) {
+    while (x < 100) {
+        printf("hehe\n");
+        x++
+    }
+}
+
+
